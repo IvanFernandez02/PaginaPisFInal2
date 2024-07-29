@@ -142,7 +142,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         document.getElementById('Iniciar').addEventListener('click', function() {
             const video = document.getElementById('video');
-            const esp32CamIp = 'http://192.168.1.14'; // Reemplaza con la IP de tu ESP32-CAM
+            const esp32CamIp = 'http://10.20.138.45'; // Reemplaza con la IP de tu ESP32-CAM
             video.src = esp32CamIp + ':81/stream';
         });
 
