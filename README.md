@@ -2,4 +2,4 @@
 
 Diagrama de clases
 
-![image](https://github.com/user-attachments/assets/679881fb-d749-4a86-b656-fdd6d269fc74)
+![image](https://github.com/user-attachments/assets/01b500d9-1f7d-435d-a7e5-22613fa264e9)
